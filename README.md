@@ -43,6 +43,8 @@ CIRCUIT DIAGRAM:
 
 
 CIRCUIT DIAGRAM:
+<img width="1816" height="985" alt="Screenshot 2026-04-30 162431" src="https://github.com/user-attachments/assets/6d48e83c-09fc-4195-843f-ea857dfa36a3" />
+
 
 
 a.   KVL:
